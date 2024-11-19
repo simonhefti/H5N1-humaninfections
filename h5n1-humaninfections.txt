@@ -1,3 +1,3 @@
 country|dts_utc|kpi_id|kpi_value|source|source_retrieved
-world|2024-11-18|infections|52|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-18
-world|2024-11-19|infections|53|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-19
+US|2024-11-18|infections|52|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-18
+US|2024-11-19|infections|53|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-19
