@@ -3,3 +3,4 @@ USA|2024-11-18|human_infections_cumulative|52|https://www.cdc.gov/bird-flu/situa
 USA|2024-11-19|human_infections_cumulative|53|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-19
 CAN|2024-11-18|human_infections_cumulative|1|https://apnews.com/article/bird-flu-canada-h5n1-d5cac97a9d7e90c227a600364573a8a3|2024-11-18
 USA|2024-11-20|human_infections_cumulative|53|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-20
+USA|2024-11-21|human_infections_cumulative|53|https://www.cdc.gov/bird-flu/situation-summary/index.html|2024-11-21
