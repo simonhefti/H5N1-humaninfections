@@ -20,4 +20,5 @@ USA|2025-01-10|human_infections_cumulative|66|https://www.cdc.gov/bird-flu/situa
 USA|2025-01-10|human_deaths_cumulative|1|https://www.cdc.gov/bird-flu/situation-summary/index.html|2025-01-10
 USA|2025-02-06|human_infections_cumulative|67|https://www.cdc.gov/bird-flu/situation-summary/index.html|2025-02-06
 USA|2025-02-06|human_deaths_cumulative|1|https://www.cdc.gov/bird-flu/situation-summary/index.html|2025-02-06
+USA|2025-02-20|human_infections_cumulative|69|https://www.cdc.gov/bird-flu/situation-summary/index.html|2025-02-20
 
